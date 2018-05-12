@@ -1,0 +1,36 @@
+_repo: Early-Western-Travels-1748-1846-Volume-XXPart-II-of-Gregg-s-Commerce-of-the-Prairies-1831-183__44205
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44205-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregg, Josiah
+    birthdate: 1806
+    deathdate: 1850
+    gutenberg_agent_id: '42363'
+    url: http://www.gutenberg.org/2009/agents/42363
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 20
+subjects:
+- !lcsh 'Southwest, New -- Description and travel'
+- !lcsh 'Santa Fe National Historic Trail'
+- !lcsh 'Mexico -- Description and travel'
+- !lcc 'F590.3'
+title: Gregg's Commerce of the Prairies, 1831-1839, part 2
+url: http://www.gutenberg.org/ebooks/44205
